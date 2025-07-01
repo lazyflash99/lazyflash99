@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazyflash99
 - 👀 I’m interested in tech related things.
-- 🌱 I’m currently learning about DSA.
+- 🌱 I’m currently learning about ML.
 - 📫 How to reach me : via discord: @lazyflash99
 - 😄 Pronouns: He/Him
 - ⚡ Aspiration: I want to contribute to learn and also to help people.
